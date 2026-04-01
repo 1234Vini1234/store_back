@@ -9,7 +9,6 @@ Este projeto expoe endpoints HTTP para o sistema da loja e foi estruturado para 
 ## Stack atual
 
 - .NET 10 (ASP.NET Core Web API)
-- OpenAPI (documentacao de endpoints no ambiente de desenvolvimento)
 - CORS configurado para frontends locais
 - Injecao de dependencia nativa do ASP.NET Core
 
@@ -18,7 +17,7 @@ Este projeto expoe endpoints HTTP para o sistema da loja e foi estruturado para 
 Cada modulo possui tudo o que precisa dentro da propria pasta.
 
 ```text
-store_front/
+store_back/
 	Modules/
 		Products/
 			Dtos/
@@ -65,13 +64,13 @@ Se o frontend usar outra porta, atualize no `Program.cs`.
 1. Restaurar pacotes:
 
 ```powershell
-dotnet restore .\store_front\store_front.csproj
+dotnet restore .\store_front\store_back.csproj
 ```
 
 2. Executar a API:
 
 ```powershell
-dotnet run --project .\store_front\store_front.csproj
+dotnet run --project .\store_back\store_back.csproj
 ```
 
 3. Testar endpoint principal:
