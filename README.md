@@ -1,4 +1,4 @@
-# store_front
+# store_back
 
 API backend em .NET 10 organizada por modulo (feature-first).
 
