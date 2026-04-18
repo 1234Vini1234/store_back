@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "23sF0wNuPo0=",
+  "dgSpecHash": "qer/LVJUGu8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vinic\\Documents\\projeto_pessoal\\store_front\\store_front.csproj",
+  "projectFilePath": "C:\\Users\\Vinic\\Documents\\projeto_pessoal\\store_back\\store_front.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vinic\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
     "C:\\Users\\Vinic\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"

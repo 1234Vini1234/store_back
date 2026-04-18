@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinic\\Documents\\projeto_pessoal\\store_front\\store_front.csproj": {}
+    "C:\\Users\\Vinic\\Documents\\projeto_pessoal\\store_back\\store_front.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinic\\Documents\\projeto_pessoal\\store_front\\store_front.csproj": {
+    "C:\\Users\\Vinic\\Documents\\projeto_pessoal\\store_back\\store_front.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinic\\Documents\\projeto_pessoal\\store_front\\store_front.csproj",
+        "projectUniqueName": "C:\\Users\\Vinic\\Documents\\projeto_pessoal\\store_back\\store_front.csproj",
         "projectName": "store_front",
-        "projectPath": "C:\\Users\\Vinic\\Documents\\projeto_pessoal\\store_front\\store_front.csproj",
+        "projectPath": "C:\\Users\\Vinic\\Documents\\projeto_pessoal\\store_back\\store_front.csproj",
         "packagesPath": "C:\\Users\\Vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinic\\Documents\\projeto_pessoal\\store_front\\obj\\",
+        "outputPath": "C:\\Users\\Vinic\\Documents\\projeto_pessoal\\store_back\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vinic\\AppData\\Roaming\\NuGet\\NuGet.Config"
