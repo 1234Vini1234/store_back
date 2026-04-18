@@ -65,3 +65,4 @@ C:\Users\Vinic\Documents\projeto_pessoal\store_back\obj\Debug\net10.0\refint\sto
 C:\Users\Vinic\Documents\projeto_pessoal\store_back\obj\Debug\net10.0\store_front.pdb
 C:\Users\Vinic\Documents\projeto_pessoal\store_back\obj\Debug\net10.0\store_front.genruntimeconfig.cache
 C:\Users\Vinic\Documents\projeto_pessoal\store_back\obj\Debug\net10.0\ref\store_front.dll
+C:\Users\Vinic\Documents\projeto_pessoal\store_back\bin\Debug\net10.0\Npgsql.dll
